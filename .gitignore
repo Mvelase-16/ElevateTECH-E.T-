@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+/.next/
+/out/
+/build
+
+# Environment Variables (CRITICAL: Keep your passwords private!)
+.env
+.env.local
+.env.production
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+logs/
+
+# Operating System files
+.DS_Store
+Thumbs.db
