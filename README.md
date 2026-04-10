@@ -14,5 +14,22 @@ Overall, UniBites provides a faster, more efficient, and user-friendly way to ma
 -[Kwabenor Amoah Lwando Zimase]()
 
 ## Features
+-QR Code Verification
+-Live Order Status & Digital Menu
+-Meal Credit Integration
+-Reorder of "The Usual"
 
 ## Technologies Used
+-LANGUAGE: for backend we use Node.js (Express) 
+           for frontend we use Next.js (React)
+-DATABASE: PostgreSQL
+-DEPLOYMENT PLATFORM: Amazon Web Services (AWS)
+
+## Setup Instructions
+1. Clone the repository: 
+        `git clone https://github.com/team-name/project.git`
+2. Install dependencies: 
+        `npm install`
+3. Run the project: 
+        `npm start`
+            
