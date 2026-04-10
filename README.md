@@ -15,8 +15,11 @@ Overall, UniBites provides a faster, more efficient, and user-friendly way to ma
 
 ## Features
 1.QR Code Verification
+
 2.Live Order Status & Digital Menu
+
 3.Meal Credit Integration
+
 4.Reorder of "The Usual"
 
 ## Technologies Used
