@@ -7,10 +7,15 @@ Overall, UniBites provides a faster, more efficient, and user-friendly way to ma
 
 ## Team Members
 -[Nikelwa Sophazi]()
+
 -[Ayanda Bright Mthembu]()
+
 -[Liyabona Miya]()
+
 -[Chikway David Maleka]()
+
 -[Ntandoyenkosi Mncube]()
+
 -[Kwabenor Amoah Lwando Zimase]()
 
 ## Features
