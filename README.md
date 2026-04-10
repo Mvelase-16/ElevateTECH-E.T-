@@ -14,16 +14,16 @@ Overall, UniBites provides a faster, more efficient, and user-friendly way to ma
 -[Kwabenor Amoah Lwando Zimase]()
 
 ## Features
--QR Code Verification
--Live Order Status & Digital Menu
--Meal Credit Integration
--Reorder of "The Usual"
+1.QR Code Verification
+2.Live Order Status & Digital Menu
+3.Meal Credit Integration
+4.Reorder of "The Usual"
 
 ## Technologies Used
--LANGUAGE: for backend we use Node.js (Express) 
+1.LANGUAGE: for backend we use Node.js (Express) 
            for frontend we use Next.js (React)
--DATABASE: PostgreSQL
--DEPLOYMENT PLATFORM: Amazon Web Services (AWS)
+2.DATABASE: PostgreSQL
+3.DEPLOYMENT PLATFORM: Amazon Web Services (AWS)
 
 ## Setup Instructions
 1. Clone the repository: 
