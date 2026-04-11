@@ -55,4 +55,4 @@
 
 - Finalize initial product vision document. 
 
--Check if repository is well structured and reflects commits of every team member.
+- Check if repository is well structured and reflects commits of every team member.
