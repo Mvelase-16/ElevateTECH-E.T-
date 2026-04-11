@@ -10,10 +10,10 @@ Scrum
 - **Reasearch**: Lwando Nzimase - Investigates technologies, methods, and requirements to support the design, development, and improvement of software systems.
 ## Sprint Schedule
 - Sprint Duration: 2 weeks
-- Total Sprints in Semester: 3 (Sprint 1: Week 4–5, Sprint 2: Week 6–7, Sprint 3: Week 8–9)
+- Total Sprints in Semester: 6 (Sprint 1: Week 1–2, Sprint 2: Week 3–4, Sprint 3: Week 5–6, Sprint 4: Week 7–8, Sprint 5: Week 9–10, Sprint 6: Week 11–12)
 - Meetings: Daily check-in on WhatsApp (8:00 AM async) and weekly sync via Google Meet
 ## Communication Tools
 - **GitHub** (source control, task tracking)
 - **WhatsApp** (daily check-ins)
-- **Google Meet** (sprint planning & reviews)
+- **Microsoft Teams** (sprint planning & reviews)
 - **Google Docs** (collaborative notes)
