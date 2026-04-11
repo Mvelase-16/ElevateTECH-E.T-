@@ -6,17 +6,17 @@ The system allows users to pre-order meals online, reducing waiting time and imp
 Overall, UniBites provides a faster, more efficient, and user-friendly way to manage food ordering on campus.
 
 ## Team Members
--[Nikelwa Sophazi]()
+-[Nikelwa Sophazi]  (Product Manager & Designer)
 
--[Ayanda Bright Mthembu]()
+-[Ayanda Bright Mthembu] (Developer)
 
--[Liyabona Miya]()
+-[Liyabona Miya] (Designer)
 
--[Chikway David Maleka]()
+-[Chikway David Maleka] (Developer)
 
--[Ntandoyenkosi Mncube]()
+-[Ntandoyenkosi Mncube] (Tester)
 
--[Kwabenor Amoah Lwando Zimase]()
+-[Kwabenor Amoah Lwando Zimase] ()
 
 ## Features
 1.QR Code Verification
