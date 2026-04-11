@@ -1,11 +1,11 @@
 # Software Product Management Plan: UniBites
 
 ## Team Members & Roles
-- Product Owner: Nikelwa Sophasi - Owns backlog and priorities.
-- Scrum Master: Ayanda Mthembu - Facilitates ceremonies and removes blockers.
-- Developers: Liyabona Miya , David Maleka  - Design, build, and deploy features.
-- Tester: Ntandoyenkosi Mncube - Checks software for bugs and ensures it works correctly before it is released to users.
-- Reasearch: Lwando Nzimase - Investigates technologies, methods, and requirements to support the design, development, and improvement of software systems.
+- Product Owner: [Nikelwa Sophazi] - Owns backlog and priorities.
+- Scrum Master: [Ayanda Mthembu] - Facilitates ceremonies and removes blockers.
+- Developers: [Liyabona Miya , David Maleka , Ayanda Mthembu] - Design, build, and deploy features.
+- Tester: [Ntandoyenkosi Mncube] - Checks software for bugs and ensures it works correctly before it is released to users.
+- Reasearcher: [Lwando Nzimase] - Investigates technologies, methods, and requirements to support the design, development, and improvement of software systems.
 
 ## Project Timeline
 | Milestone | Task | Deadline |
