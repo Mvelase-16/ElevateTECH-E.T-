@@ -7,7 +7,7 @@
 - Tester: Ntandoyenkosi Mncube - Checks software for bugs and ensures it works correctly before it is released to users.
 - Reasearch: Lwando Nzimase - Investigates technologies, methods, and requirements to support the design, development, and improvement of software systems.
 
-## Project Timeline (Milestones & Deadlines)
+## Project Timeline
 | Milestone | Task | Deadline |
 | :--- | :--- | :--- |
 | Sprint 1 | Foundation (Auth & Menu Browsing) | Weeks 1–2 |
