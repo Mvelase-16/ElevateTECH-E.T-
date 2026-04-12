@@ -17,7 +17,7 @@ This sprint backlog outlines the tasks required to develop the cafeteria pre-ord
 | Integrate frontend menu with backend API | David Maleka (Full Stack Developer) | 6 hrs | Sprint 1 | To Do |
 | Develop order submission API | Liyabona Miya (Backend Developer) | 7 hrs | Sprint 2 | To Do |
 | Implement time-slot booking logic | Liyabona Miya (Backend Developer) | 6 hrs | Sprint 2 | To Do |
-| Create order form and meal selection UI | Ayanda Mthembu (Frontend Developer) | 5 hrs | Sprint 2 | To Do |
+| Create order form and meal selection UI | Ayanda Mthembu (Frontend Developer) | 5 hrs | Sprint 2 | In Progress |
 | Connect frontend ordering system with backend | David Maleka (Full Stack Developer) | 6 hrs | Sprint 2 | To Do |
 | Test menu display and ordering system | Ntandoyenkosi Mncube (QA & Documentation) | 5 hrs | Sprint 2 | To Do |
 | Fix bugs identified during testing | David Maleka (Full Stack Developer) | 4 hrs | Sprint 3 | To Do |
