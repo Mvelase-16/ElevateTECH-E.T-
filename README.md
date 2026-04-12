@@ -16,7 +16,7 @@ Overall, UniBites provides a faster, more efficient, and user-friendly way to ma
 
 5.Ntandoyenkosi Mncube (Tester)
 
-6.Kwabenor Amoah Lwando Zimase ()
+6.Kwabenor Amoah Lwando Zimase (Researcher)
 
 ## Features
 1.QR Code Verification
