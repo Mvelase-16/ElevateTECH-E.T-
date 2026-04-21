@@ -25,7 +25,7 @@
 
 -Favorites / Saved Meals
 
--Promotions / Discounts ( special deals for students )
+-Promotions / Discounts (special deals for students)
 
 -Estimated Delivery / Pickup Time
 
