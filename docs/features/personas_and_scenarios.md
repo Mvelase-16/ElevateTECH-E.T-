@@ -1,6 +1,6 @@
 # User Personas and Scenarios 
 
-## Persona 1: Zolile Mtumela (Proffessor)
+## Persona 1: Zolile Mtumela (Professor)
 
 - **Age**: 43
  
