@@ -48,7 +48,11 @@ He arrives at the cafeteria, collects his pre-prepared meal immediately, and con
 
 ### Scenario
 
-Sipho has a 30-minute break between two back-to-back lectures. He opens the Campus Food Ordering App, browses the available stalls, and filters by "ready in under 15 minutes." He selects a toasted sandwich and a juice from the Main Cafeteria, adds them to his cart, and pays using his campus card. He receives a notification when his order is ready for collection at the designated pickup counter. He collects his food without queuing and makes it back to his next class on time.
+Sipho has a 30-minute break between two back-to-back lectures.
+
+He opens the Campus Food Ordering App, browses the available stalls, and filters by "ready in under 15 minutes." He selects a toasted sandwich and a juice from the Main Cafeteria, adds them to his cart, and pays using his campus card.
+
+He receives a notification when his order is ready for collection at the designated pickup counter. He collects his food without queuing and makes it back to his next class on time.
 
 ---
 ## Persona 5: Nomvula (Food Vendor)
@@ -61,5 +65,9 @@ Sipho has a 30-minute break between two back-to-back lectures. He opens the Camp
 
 ### Scenario
 
-Nomvula starts her morning by opening the vendor dashboard on the app. She updates her daily menu, marks two items as sold out, and sets her stall status to "Open." Throughout the day, new orders appear on her dashboard with the student's name and items. She marks each order as "In Progress" and then "Ready" when done, which automatically notifies the student. At the end of the day, she reviews the sales summary to see which items were most popular.
+Nomvula starts her morning by opening the vendor dashboard on the app.
+
+She updates her daily menu, marks two items as sold out, and sets her stall status to "Open." Throughout the day, new orders appear on her dashboard with the student's name and items. 
+
+She marks each order as "In Progress" and then "Ready" when done, which automatically notifies the student. At the end of the day, she reviews the sales summary to see which items were most popular.
 
