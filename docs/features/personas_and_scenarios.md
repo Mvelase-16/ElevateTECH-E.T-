@@ -6,7 +6,8 @@
 - **Occupation**: University Lecturer (Data Structures)
 - **Goal**: Quickly access and order food online due to a busy academic schedule.
 
-###Scenario
+### Scenario
+
 Prof. Mtumela has a full teaching schedule on Thursdays with only a 45-minute window between his 10am and 2pm lectures. Rather than walking to the cafeteria and risking a long queue, he opens the Campus Food Ordering App from his office. He filters the menu by "healthy options" and selects a grilled chicken wrap and bottled water from a nearby vendor. He pays using mobile payment and selects a pickup time of 12:30pm. At 12:25pm, he receives a notification that his order is ready. He walks to the pickup point, collects his meal, and is back at his desk within 10 minutes — leaving him enough time to eat and review his afternoon lecture notes.
 
 ## Persona 2: Nandi (Cafeteria Staff Member)
