@@ -40,10 +40,15 @@ Cafeteria
 - Student satisfaction rating
 
 ## Moore's Vision Product Template
-FOR	Campus students who are frustrated by long cafeteria queues and unpredictable wait times during lunch breaks.
-WHO	Need a way to order food in advance and guarantee their meal is ready when they arrive on campus.
-THE	Campus Cafeteria Ordering App UniBites.
+**FOR**	Campus students who are frustrated by long cafeteria queues and unpredictable wait times during lunch breaks.
+
+**WHO**	Need a way to order food in advance and guarantee their meal is ready when they arrive on campus.
+
+**THE**	Campus Cafeteria Ordering App UniBites.
 IS A	Web-based pre-ordering and pickup scheduling platform.
-THAT	Lets students browse the menu, place orders ahead of time, choose a pickup slot, and track their order status live — while giving cafeteria staff real-time demand forecasts to guide food preparation.
-UNLIKE	Walking up to the counter with no advance ordering, or generic food delivery apps not designed for campus operations.
-OUR PRODUCT	Directly integrates the student ordering experience with the cafeteria preparation workflow, using demand data to reduce both queue times and food wastage simultaneously.
+
+**THAT**	Lets students browse the menu, place orders ahead of time, choose a pickup slot, and track their order status live — while giving cafeteria staff real-time demand forecasts to guide food preparation.
+
+**UNLIKE**	Walking up to the counter with no advance ordering, or generic food delivery apps not designed for campus operations.
+
+**OUR PRODUCT**	Directly integrates the student ordering experience with the cafeteria preparation workflow, using demand data to reduce both queue times and food wastage simultaneously.
