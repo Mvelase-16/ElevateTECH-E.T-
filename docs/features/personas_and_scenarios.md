@@ -34,8 +34,6 @@ Using the app, Thando selects a healthy meal option and schedules a pickup time 
 
 He arrives at the cafeteria, collects his pre-prepared meal immediately, and continues his routine without delays.  
 
-# User Personas and Scenarios
-
 ---
 
 ## Persona 4: Sipho (Student)
