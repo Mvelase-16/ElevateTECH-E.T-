@@ -37,7 +37,7 @@
   - Students must be able to place an order with a single confirmation action.
 
 - **Non-Functional Requirements:**
-  - The system must be handle many orders at the same time
+  - The system must be able to handle many orders at the same time
 
 ---
 
