@@ -5,7 +5,7 @@
 
 -Browse Menu (View Available Food)
 
--Add to Cart
+-Add/Remove to Cart
 
 -View Cart
 
