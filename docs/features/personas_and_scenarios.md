@@ -22,7 +22,7 @@ This allows her to manage her workload better, reduce stress, and serve students
 
 ---
 
-## Persona 3: Thando (Student Athlete)
+## Persona 3: Thando (Student)
 - **Age**: 22  
 - **Occupation**: Sports Science Student  
 - **Goal**: Get healthy meals on time without interrupting training sessions  
