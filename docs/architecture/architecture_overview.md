@@ -37,3 +37,5 @@ The system is designed using a layered architecture to separate concerns between
 
 ## High-Level Architecture Diagram
 
+![Architecture Diagram](diagrams/Architecture_Diagram.png)
+
