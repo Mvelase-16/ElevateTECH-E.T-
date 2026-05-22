@@ -1,4 +1,4 @@
-# Project name: UniBites-Campus Cafeteria Ordering App
+# Project name: UniBites-Campus Cafeteria Web Application
 A web-based pre-ordering system for campus cafeterias that allows students & staff to order food in advance and select a pickup time, while giving cafeteria staff real-time demand visibility to reduce waste and improve preparation efficiency.
 
 ## Problem Statement
