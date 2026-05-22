@@ -103,7 +103,7 @@ We agreed on a 12-week schedule divided into 6 distinct 2-week sprints. We also 
 
 
 
-## Meeting 4: Phase 3 Meeting
+## Meeting 4: Phase 3 Group Presentation & Contribution Review Meeting
 - **Date:** 24 April, 2026
 - **Time:** 21:23 PM - 22:34 PM
 - **Venue:** Teams (Online)
@@ -119,5 +119,25 @@ As a team we finalised the Product Vision for UniBites, a web-based campus pre-o
 
 
 ### Agenda & Topics Discussed
-1.  **Finalising Scrum Framework** 
+1.  **Feature Breakdown Presentation**
+**Liya** led the second part of the meeting by presenting the finalized UniBites features list, explaining our prioritized "Must Have" core functionalities (like login, browsing, and checking out) alongside our "Should" and "Could" have enhancements.
 
+2.  **User Stories Framework Breakdown**
+**Ayanda** presented the user stories committed to GitHub, walking through the student and vendor-specific paths to ensure all core user goals—such as order filtering, real-time notifications, and vendor dashboard management—are fully addressed.
+
+3.  **Personas & Scenarios Dive**
+**Lwando** and **Ntando** presented the system's personas and scenarios. Lwando covered the first two personas (highlighting Prof. Zolile's busy schedule and Nandi's cafeteria workload management), while Ntando broke down the remaining user profiles to establish our user-centered goals.
+
+4.  **Requirements & Feature Mapping Analysis**
+**Nikelwa** and **David** wrapped up by breaking down the functional and non-functional requirements. Nikelwa explained the user registration & authentication and cart management feautures, while David detailed the payment integration and order tracking & pickup notification performance constraints features.
+
+
+### Decisions Made
+1. Group presentation strategy finalized with clear speaking roles for each member to showcase individual contributions.
+2. Features prioritized into Must (Authentication, Browse, Cart, Checkout), Should (Search, Reviews), and Could (Favorites,  Student Promos) blocks.
+3. Agreed on taking the latest student and vendor paths in our user stories to serve as our active GitHub project board tracking base.
+4. Confirmed that the user personas framework covers both consumer (staff/student) and provider (cafeteria workers) real-world scenarios
+5. Finalized and approved all our functional and non-functional metrics in our requirements_mapping to guide us in semester 2 for the backend and frontend coding.
+
+### Meeting Summary
+In this meeting, the team prepared and ran through our group presentation for Phase 3, ensuring every member clearly presented their individual contributions to the features, personas, user stories and requirements mapping.
