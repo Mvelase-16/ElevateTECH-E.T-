@@ -1,7 +1,7 @@
 # System Architecture Overview
 
 ## System
-Campus Cafeteria Pre-Order Web Application
+Campus Cafeteria Pre-Order mobile app.
 
 ## Architectural Style
 Layered Architecture
@@ -11,7 +11,7 @@ The system is designed using a layered architecture to separate concerns between
 
 ## Layers
 
-- **Presentation Layer**: React web application used by students and cafeteria staff.
+- **Presentation Layer**: React Native web application used by students and cafeteria staff.
 - **Application Layer**: Backend services (Node.js/Express) handling business logic such as order processing and time-slot management.
 - **Data Layer**: Database (MySQL) storing users, menu items, orders, and time slots.
 
