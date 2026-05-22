@@ -28,10 +28,12 @@ Overall, UniBites provides a faster, more efficient, and user-friendly way to ma
 4.Reorder of "The Usual"
 
 ## Technologies Used
-1.LANGUAGE: for backend we use Node.js (Express) 
-           for frontend we use React Native
+1.LANGUAGE: 
+Frontend - JavaScript, React Native, Expo
+Backend - Node.js, Express.js
            
 2.DATABASE: MySQL
+3.CLOUD HOSTING: Render
 
 3.DEPLOYMENT PLATFORM: Amazon Web Services (AWS)
 
