@@ -31,7 +31,7 @@ Overall, UniBites provides a faster, more efficient, and user-friendly way to ma
 1.LANGUAGE: for backend we use Node.js (Express) 
            for frontend we use Next.js (React)
            
-2.DATABASE: PostgreSQL
+2.DATABASE: MySQL
 
 3.DEPLOYMENT PLATFORM: Amazon Web Services (AWS)
 
