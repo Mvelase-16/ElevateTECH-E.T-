@@ -3,7 +3,7 @@
 * **Frontend**
   * JavaScript
   * React Native
-* Expo
+  * Expo
 *  **Backend**
   * Node.js
   * Express.js
