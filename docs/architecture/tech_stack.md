@@ -1,28 +1,35 @@
 # Technology Stack
 
-* **Backend**
-  * Node.js (Express)
 * **Frontend**
-  * React Native
+* JavaScript
+* React Native
+* Expo
+*  **Backend**
+  * Node.js
+  * Express.js
 * **Database**
   * MySQL
 * **Hosting**
-  * AWS (Amazon Web Services)
+  * Render
 
 
 ---
 
 # Justification
 
-- Backend: Node.js (Express)
+- Frontend: Javascript + React Native + Expo
+  
+JavaScript was chosen because it is beginner-friendly, widely used in modern software development, and can be used for both frontend and backend development, allowing for consistency across the project.
 
-Node.js with Express is suitable for UniBites because it efficiently handles multiple simultaneous requests using its asynchronous, non-blocking architecture. In a campus environment where many students and staff may place food orders at the same time, this ensures fast response times and smooth performance. Express also simplifies the development of restful APIs needed for communication between the frontend and backend.
+React Native is chosen to create a responsive and interactive user interface for the UniBites mobile app. It allows the development of reusable components such as menus, order forms, and dashboards, which improves maintainability. React Native also enhances user experience by updating only necessary parts of the screen, making the app fast and user-friendly for students and staff.
+
+Expo was chosen to simplify the React Native development process by providing tools for easier setup, testing, debugging, and deployment, which is beneficial for a student project team.
 
 ---
 
-  - Frontend: React Native
+- Backend: Node.js + Express.js
 
-React Native is chosen to create a responsive and interactive user interface for the UniBites mobile app. It allows the development of reusable components such as menus, order forms, and dashboards, which improves maintainability. React Native also enhances user experience by updating only necessary parts of the screen, making the app fast and user-friendly for students and staff.
+Node.js with Express is suitable for UniBites because it efficiently handles multiple simultaneous requests using its asynchronous, non-blocking architecture. In a campus environment where many students and staff may place food orders at the same time, this ensures fast response times and smooth performance. Express also simplifies the development of restful APIs needed for communication between the frontend and backend.
 
 ---
 
@@ -32,9 +39,9 @@ MySQL is selected because UniBites requires structured data storage for users, m
 
 ---
 
-- Hosting: AWS (Amazon Web Services)
+- Hosting: Render
 
-AWS is used for hosting due to its scalability and reliability. UniBites can handle high traffic during peak hours such as lunch breaks without performance issues. AWS also provides secure data storage, backup services, and high availability, making it appropriate for deploying a real-world campus system.
+Render was chosen because it offers simple cloud deployment and hosting services for web applications and backend servers, making it easier for the team to deploy, manage, and test the system online without complex cloud infrastructure setup.
 
 ---
 
