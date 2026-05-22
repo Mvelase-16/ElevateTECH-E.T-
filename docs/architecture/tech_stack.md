@@ -46,5 +46,4 @@ AWS is used for hosting due to its scalability and reliability. UniBites can han
 
 # Summary
 
-The chosen technology stack ensures that UniBites is efficient, scalable, secure, and easy to maintain. It supports real-time food ordering and provides a smooth experience for both users and administrators within the university environment.
-
+Our chosen Tech stack specifications are built on React Native, Node.js (Express), MySQL, and AWS hosting. These choices were justified by highlighting Node's non-blocking request handling for peak campus rush hours, React's responsive component rendering, MySQL's strict relational integrity for secure transaction tracking, and AWS's high-availability cloud infrastructure. Ultimately, this chosen technology stack ensures that UniBites is efficient, scalable, secure, and easy to maintain, supporting real-time food ordering and providing a smooth experience for both users and administrators within the university environment.
