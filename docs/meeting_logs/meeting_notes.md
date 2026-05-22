@@ -120,16 +120,16 @@ As a team we finalised the Product Vision for UniBites, a web-based campus pre-o
 
 ### Agenda & Topics Discussed
 1.  **Feature Breakdown Presentation**
-**Liya** led the second part of the meeting by presenting the finalized UniBites features list, explaining our prioritized "Must Have" core functionalities (like login, browsing, and checking out) alongside our "Should" and "Could" have enhancements.
+      **Liya** led the second part of the meeting by presenting the finalized UniBites features list, explaining our prioritized "Must Have" core functionalities (like login, browsing, and checking out) alongside our "Should" and "Could" have enhancements.
 
 2.  **User Stories Framework Breakdown**
-**Ayanda** presented the user stories committed to GitHub, walking through the student and vendor-specific paths to ensure all core user goals—such as order filtering, real-time notifications, and vendor dashboard management—are fully addressed.
+     **Ayanda** presented the user stories committed to GitHub, walking through the student and vendor-specific paths to ensure all core user goals—such as order filtering, real-time notifications, and vendor dashboard management—are fully addressed.
 
 3.  **Personas & Scenarios Dive**
-**Lwando** and **Ntando** presented the system's personas and scenarios. Lwando covered the first two personas (highlighting Prof. Zolile's busy schedule and Nandi's cafeteria workload management), while Ntando broke down the remaining user profiles to establish our user-centered goals.
+     **Lwando** and **Ntando** presented the system's personas and scenarios. Lwando covered the first two personas (highlighting Prof. Zolile's busy schedule and Nandi's cafeteria workload management), while Ntando broke down the remaining user profiles to establish our user-centered goals.
 
 4.  **Requirements & Feature Mapping Analysis**
-**Nikelwa** and **David** wrapped up by breaking down the functional and non-functional requirements. Nikelwa explained the user registration & authentication and cart management feautures, while David detailed the payment integration and order tracking & pickup notification performance constraints features.
+     **Nikelwa** and **David** wrapped up by breaking down the functional and non-functional requirements. Nikelwa explained the user registration & authentication and cart management feautures, while David detailed the payment integration and order tracking & pickup notification performance constraints features.
 
 
 ### Decisions Made
