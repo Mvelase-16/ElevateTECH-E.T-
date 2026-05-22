@@ -103,7 +103,7 @@ We agreed on a 12-week schedule divided into 6 distinct 2-week sprints. We also 
 
 
 
-## Meeting 4: Phase 3 Group Presentation & Contribution Review Meeting
+## Meeting 4: Phase 3 Group Presentation & Architecture Review Meeting
 - **Date:** 24 April, 2026
 - **Time:** 21:23 PM - 22:34 PM
 - **Venue:** Teams (Online)
@@ -119,17 +119,13 @@ As a team we finalised the Product Vision for UniBites, a web-based campus pre-o
 
 
 ### Agenda & Topics Discussed
-1.  **Feature Breakdown Presentation**
-      **Liya** led the second part of the meeting by presenting the finalized UniBites features list, explaining our prioritized "Must Have" core functionalities (like login, browsing, and checking out) alongside our "Should" and "Could" have enhancements.
+1.  **Feature Breakdown Presentation - Liya** led the second part of the meeting by presenting the finalized UniBites features list, explaining our prioritized "Must Have" core functionalities (like login, browsing, and checking out) alongside our "Should" and "Could" have enhancements.
 
-2.  **User Stories Framework Breakdown**
-     **Ayanda** presented the user stories committed to GitHub, walking through the student and vendor-specific paths to ensure all core user goals—such as order filtering, real-time notifications, and vendor dashboard management—are fully addressed.
+2.  **User Stories Framework Breakdown - Ayanda** presented the user stories committed to GitHub, walking through the student and vendor-specific paths to ensure all core user goals—such as order filtering, real-time notifications, and vendor dashboard management—are fully addressed.
 
-3.  **Personas & Scenarios Dive**
-     **Lwando** and **Ntando** presented the system's personas and scenarios. Lwando covered the first two personas (highlighting Prof. Zolile's busy schedule and Nandi's cafeteria workload management), while Ntando broke down the remaining user profiles to establish our user-centered goals.
+3.  **Personas & Scenarios Dive - Lwando and Ntando** presented the system's personas and scenarios. Lwando covered the first two personas (highlighting Prof. Zolile's busy schedule and Nandi's cafeteria workload management), while Ntando broke down the remaining user profiles to establish our user-centered goals.
 
-4.  **Requirements & Feature Mapping Analysis**
-     **Nikelwa** and **David** wrapped up by breaking down the functional and non-functional requirements. Nikelwa explained the user registration & authentication and cart management feautures, while David detailed the payment integration and order tracking & pickup notification performance constraints features.
+4.  **Requirements & Feature Mapping Analysis - Nikelwa and David** wrapped up by breaking down the functional and non-functional requirements. Nikelwa explained the user registration & authentication and cart management feautures, while David detailed the payment integration and order tracking & pickup notification performance constraints features.
 
 
 ### Decisions Made
@@ -141,3 +137,29 @@ As a team we finalised the Product Vision for UniBites, a web-based campus pre-o
 
 ### Meeting Summary
 In this meeting, the team prepared and ran through our group presentation for Phase 3, ensuring every member clearly presented their individual contributions to the features, personas, user stories and requirements mapping.
+
+
+## Meeting 5: Phase 4 Group Presentation Meeting
+- **Date:** 05 May, 2026 (Tuesday)
+- **Time:** 21:04 PM - 21:34 PM
+- **Venue:** Teams (Online)
+- **Attendance:** [David, Liya, Nikelwa, Lwando, Ntando, Ayanda]
+- **Absent:** None
+
+**Meeting Overview**
+In this meeting, we conducted our final group presentation for Phase 4, focusing on outlining our technical system design, component interactions, and structural blueprints before implementation begins.
+
+### Agenda & Topics Discussed
+1.  **System Architecture Overview - Lwando** Presented the finalized architectural design for UniBites, justifying our choice of a Layered Architecture over Monolithic and Microservices styles to maintain a clean separation of concerns across our React Native, Node.js, and MySQL.
+2.  **System Decomposition & Modules - David** led the next segment by presenting the system decomposition, breaking the application down into six core operational modules—including Authentication, Menu Catalog, Cart, and Order Management—and defining their individual backend responsibilities.
+3.  **High-Level & UML Component Diagram Analysis - Nikelwa** explained the high-level three-tier architecture diagram mapping user interfaces down to the database. **Liya** then broke down the structural UML Component Diagram, explaining how the central Node backend links core business logic to the React Native frontend, admin dashboard, notification services, and MySQL data storage.
+4.  **Data Flow & Deployment Diagrams - Lwando** walked through the Data Flow Diagram, detailing how order requests move from students to the backend system, how menu data populates browser views, and how confirmation actions trigger place-order bubbles. **Nikelwa** followed by showcasing the Deployment Diagram, illustrating user device interactions over HTTPS, API calls passing between the Vercel-hosted React Native frontend and the Render-hosted Node.js backend, and transactional database queries targeting MySQL.
+5.  **Technology Stack Selection & Justification - Ntando** concluded the technical presentation by breaking down our core stack specifications—built on React Native, Node.js (Express), MySQL, and AWS hosting. They justified these choices by highlighting Node's non-blocking request handling for peak campus rush hours, React's responsive component rendering, MySQL's strict relational integrity for secure transaction tracking, and AWS's high-availability cloud infrastructure.
+
+
+### Decisions Made
+1. Officially approved the Layered Architecture model to balance modularity and development simplicity for our small team size.
+2. Documented and accepted key architectural risks, specifically planning for peak-hour backend loads and enforcing strict layer isolation to prevent tight coupling.
+3. Finalized the component decomposition map to serve as the direct baseline for our upcoming coding tasks and GitHub project board issue tracking.
+4. Validated all visual assets within the docs/architecture/diagrams/ directory, ensuring consistent terminology across our architectural, operational data flow, and server environment visuals.
+5. Locked in our production development stack (React Native/Node.js/MySQL/AWS) and verified that all configuration setup tasks were generated as trackable milestone objectives on our central project board.
