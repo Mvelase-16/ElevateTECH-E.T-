@@ -13,7 +13,7 @@ The system is designed using a layered architecture to separate concerns between
 
 - **Presentation Layer**: React web application used by students and cafeteria staff.
 - **Application Layer**: Backend services (Node.js/Express) handling business logic such as order processing and time-slot management.
-- **Data Layer**: Database (MongoDB) storing users, menu items, orders, and time slots.
+- **Data Layer**: Database (MySQL) storing users, menu items, orders, and time slots.
 
 ## Alternative Options Considered
 
