@@ -1,8 +1,8 @@
 # Technology Stack
 
 * **Frontend**
-* JavaScript
-* React Native
+  * JavaScript
+  * React Native
 * Expo
 *  **Backend**
   * Node.js
