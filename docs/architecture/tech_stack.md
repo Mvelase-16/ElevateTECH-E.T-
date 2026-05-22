@@ -22,7 +22,7 @@ Node.js with Express is suitable for UniBites because it efficiently handles mul
 
   - Frontend: React Native
 
-React Native is chosen to create a responsive and interactive user interface for UniBites. It allows the development of reusable components such as menus, order forms, and dashboards, which improves maintainability. React Native also enhances user experience by updating only necessary parts of the page, making the system fast and user-friendly for students and staff.
+React Native is chosen to create a responsive and interactive user interface for the UniBites mobile app. It allows the development of reusable components such as menus, order forms, and dashboards, which improves maintainability. React Native also enhances user experience by updating only necessary parts of the screen, making the app fast and user-friendly for students and staff.
 
 ---
 
