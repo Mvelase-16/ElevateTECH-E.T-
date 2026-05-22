@@ -4,7 +4,7 @@
   * JavaScript
   * React Native
   * Expo
-*  **Backend**
+* **Backend**
   * Node.js
   * Express.js
 * **Database**
