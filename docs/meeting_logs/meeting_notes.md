@@ -111,6 +111,13 @@ We agreed on a 12-week schedule divided into 6 distinct 2-week sprints. We also 
 - **Absent:** None
 
 ### Notes from the last Meeting
+**Reviewing our Software Management Plan**
+In this meeting, we finalised the Software Management Plan for UniBites, establishing full stack roles and a 12-week development roadmap across 6 milestones. We selected our tech stack using React.js for frontend, Node.js for backend, and MySQL for data and authentication. Proactive risk strategies were also put in place to handle potential team unavailability, bugs, and timeline delays through cross-training and weekly milestones.
+
+**Finalized Product Vision**
+As a team we finalised the Product Vision for UniBites, a web-based campus pre-ordering system featuring menu browsing and scheduled pickup slots to eliminate long cafeteria queues. By bridging the communication gap between students and kitchen workers, the platform provides real-time demand data to simultaneously lower daily food wastage and maximize peak-hour campus efficiency
+
 
 ### Agenda & Topics Discussed
 1.  **Finalising Scrum Framework** 
+
