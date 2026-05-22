@@ -41,6 +41,50 @@
 
       -**Ntando**  [Tester]
 
+## Meeting 2: GitHub setup Meeting
+- **Date:** 19 March, 2026
+- **Time:** 19:59 PM - 21:15 PM
+- **Venue:** Teams (Online)
+- **Attendance:** [David, Liya, Nikelwa, Ntando, Ayanda]
+- **Absent:** Lwando
+
+
+### Agenda & Topics Discussed
+1.  **Finalising role asigns and finding our way through GitHub** 
+In this meeting we tried to make sure that evryone is comfortable with the roles presented to them. We then moved to going over the rest of the basics of out GitHub setup to have a thorough and proper base for our project.
+We taught each other about applications of Git like Git GUI that will help us to clone our repo and then link it to VsCode successfully, we made sure everyone has cloned and that we are all on the same pasge to on to the ultimate initial phase.
+
+2.  **Repo Successfully cloned**
+For every member we checked if our Git was successfully cloned and that every member remembers that, cloning a GitHub repository copies the project's files and it's full version history to your local computer. Which lets you run, edit, test
+and manage the code offline using your own tools without affecting the original, remote version on GitHub.
+From our Git & GitHUb Basics online course.
+
+### Decisions Made
+1. Agreed that our frontend will be React. 
+2. Backend is Node.js.
+3. Database is MySQL
+
+
+## Meeting 3: Phase 2 Meeting
+- **Date:** 4 April, 2026
+- **Time:** 19:00 PM - 01:00 AM
+- **Venue:** Study Center (Contact)
+- **Attendance:** [David, Liya, Nikelwa, Lwando, Ntando, Ayanda]
+- **Absent:** None
+
+### Agenda & Topics Discussed
+1.  **Finalising Scrum Framework** 
+In this meeting, we aligned on adopting the Scrum methodology and ensured every member is clear and comfortable with their assigned roles (Product Owner, Scrum Master, Developers, QA, and Research) to establish a proper workflow for the project.
+
+2.  **Reaching an agreement on Project Timeline & Communication** 
+We agreed on a 12-week schedule divided into 6 distinct 2-week sprints. We also finalized our communication stack, agreeing to use WhatsApp for daily check-ins, Microsoft Teams for weekly syncs, GitHub for tracking tasks, Google Docs for documentation and VS Code for managing project files.
+
+### Decisions Made
+1.Framework chosen is Scrum. 
+2. Sprint duration set to 2 weeks (6 sprints total)
+3. Primary project stack tools are GitHub (task tracking), VS Code (development), WhatsApp/Teams (communication), and Google Docs (collaborative notes).
+
+
 ### Action Items & Assignments
 | Task | Assigned To | Deadline |
 | :--- | :--- | :--- |
@@ -56,3 +100,17 @@
 - Finalize initial product vision document. 
 
 - Check if repository is well structured and reflects commits of every team member.
+
+
+
+## Meeting 4: Phase 3 Meeting
+- **Date:** 24 April, 2026
+- **Time:** 21:23 PM - 22:34 PM
+- **Venue:** Teams (Online)
+- **Attendance:** [David, Liya, Nikelwa, Lwando, Ntando, Ayanda]
+- **Absent:** None
+
+### Notes from the last Meeting
+
+### Agenda & Topics Discussed
+1.  **Finalising Scrum Framework** 
