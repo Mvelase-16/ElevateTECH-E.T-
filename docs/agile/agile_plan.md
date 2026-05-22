@@ -3,9 +3,9 @@ Scrum
 ## Roles and Responsibilities
 - **Product Owner**: Nikelwa Sophazi — Owns backlog and priorities.
 - **Scrum Master**: Ayanda Mthembu - Facilitates ceremonies and removes blockers.
-- **Developer**: Liyabona Miya — Backend and API development.
-- **Developer**: David Maleka — Full stack development.
-- **Developer**: Ayanda Mthembu — Frontend design and implementation.
+- **Developer**: Liyabona Miya — UI/UX Designer.
+- **Developer**: David Maleka — Backend developer and API development.
+- **Developer**: Ayanda Mthembu — Frontend developer and implementation.
 - **QA & Documentation**: Ntandoyenkosi Mncube — Testing and writing technical documentation.
 - **Reasearch**: Lwando Nzimase - Investigates technologies, methods, and requirements to support the design, development, and improvement of software systems.
 ## Sprint Schedule
