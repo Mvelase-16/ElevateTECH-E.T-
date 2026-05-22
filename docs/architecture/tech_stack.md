@@ -1,5 +1,15 @@
 # Technology Stack
 
+
+* **Backend**
+  * Node.js (Express)
+* **Frontend**
+  * React Native
+* **Database**
+  * MySQL
+* **Hosting**
+  * AWS (Amazon Web Services)
+
 - Backend
 
 * Node.js (Express)
