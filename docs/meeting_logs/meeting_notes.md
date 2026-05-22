@@ -60,7 +60,7 @@ and manage the code offline using your own tools without affecting the original,
 From our Git & GitHUb Basics online course.
 
 ### Decisions Made
-1. Agreed that our frontend will be React. 
+1. Agreed that our frontend will be React Native. 
 2. Backend is Node.js.
 3. Database is MySQL
 
