@@ -2,11 +2,11 @@
 
 - Backend
 
-* Node.js (Express.js)
+* Node.js (Express)
 
 - Frontend
 
-* React.js
+* React Native
 
 - Database
 
@@ -20,15 +20,15 @@
 
 # Justification
 
-- Backend: Node.js (Express.js)
+- Backend: Node.js (Express)
 
-Node.js with Express.js is suitable for UniBites because it efficiently handles multiple simultaneous requests using its asynchronous, non-blocking architecture. In a campus environment where many students and staff may place food orders at the same time, this ensures fast response times and smooth performance. Express.js also simplifies the development of RESTful APIs needed for communication between the frontend and backend.
+Node.js with Express is suitable for UniBites because it efficiently handles multiple simultaneous requests using its asynchronous, non-blocking architecture. In a campus environment where many students and staff may place food orders at the same time, this ensures fast response times and smooth performance. Express also simplifies the development of restful APIs needed for communication between the frontend and backend.
 
 ---
 
-  - Frontend: React.js
+  - Frontend: React Native
 
-React.js is chosen to create a responsive and interactive user interface for UniBites. It allows the development of reusable components such as menus, order forms, and dashboards, which improves maintainability. React also enhances user experience by updating only necessary parts of the page, making the system fast and user-friendly for students and staff.
+React Native is chosen to create a responsive and interactive user interface for UniBites. It allows the development of reusable components such as menus, order forms, and dashboards, which improves maintainability. React Native also enhances user experience by updating only necessary parts of the page, making the system fast and user-friendly for students and staff.
 
 ---
 
