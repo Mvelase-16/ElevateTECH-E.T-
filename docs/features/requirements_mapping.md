@@ -44,7 +44,7 @@
 ## Feature: Payment Integration
 
 - **Functional Requirements:**
-  - The system must support payment via card, mobile payment, and cash-on-collection selection.
+  - The system must support payment via card and  digital payment.
   - The system must generate an order confirmation and receipt upon successful payment.
   - Failed payments must notify the user with an appropriate error message.
 
