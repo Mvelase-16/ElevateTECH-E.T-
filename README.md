@@ -37,7 +37,7 @@ Overall, UniBites provides a faster, more efficient, and user-friendly way to ma
 
 3. CLOUD HOSTING : Render
 
-4. DEPLOYMENT PLATFORM : AMAZONNWEB SERVICES (AWS)
+4. DEPLOYMENT PLATFORM : AMAZON WEB SERVICES (AWS)
            
 
 ## Setup Instructions
