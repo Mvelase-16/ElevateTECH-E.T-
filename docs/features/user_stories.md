@@ -16,3 +16,8 @@
 - As a vendor, I want to receive and manage incoming orders through a dashboard so that I can prepare food efficiently and reduce errors.
 - As a vendor, I want to update the status of an order (In Progress / Ready) so that the student is automatically notified.
 - As a vendor, I want to view a daily sales summary so that I can track my revenue and popular items.
+
+## Admin User Stories
+- As a platform administrator, I want to audit and approve incoming vendor registration applications so that only legitimate on-campus food stalls can open storefronts.
+- As an administrator, I want to have the authority to suspend or remove a vendor storefront profile if they violate campus service guidelines.
+- As an administrator, I want to access platform usage logs so that I can maintain system health oversight
