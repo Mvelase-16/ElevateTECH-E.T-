@@ -3,23 +3,27 @@
 
 -Login / Authentication
 
--Browse Menu (View Available Food)
+-Browse Live Menu
 
--Add/Remove to Cart
-
--View Cart
+-View Cart and add/remove to Cart
 
 -Place Order (Checkout)
 
 -Payment Method
 
+-Pickup Time
+
+-Vendor Menu Management
+
 ## Should Have Features 
+
+-Order status tracking
+
+-Liver order queue management (from search entries)
 
 -Contact / Help / Enquiry
 
 -Ratings / Reviews
-
--Search / Filter Food
 
 ## Could Have Features 
 
@@ -27,6 +31,8 @@
 
 -Promotions / Discounts (special deals for students)
 
--Estimated Delivery / Pickup Time
+-Pickup Status Alerts
 
 -Multiple Payment Options (e.g wallet, vouchers)
+
+-Admin Panel for Vendor Management
