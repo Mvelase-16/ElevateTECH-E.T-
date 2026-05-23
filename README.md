@@ -19,13 +19,19 @@ Overall, UniBites provides a faster, more efficient, and user-friendly way to ma
 6.Kwabenor Amoah Lwando Zimase (Researcher)
 
 ## Features
-1.QR Code Verification
+1.User Registration & Authentication
 
-2.Live Order Status & Digital Menu
+2.Cafeteria Stall Listing & Menu Management
 
-3.Meal Credit Integration
+3.Food Ordering ,Cart Management and Pickup Scheduling
 
-4.Reorder of "The Usual"
+4.Payment Integration
+
+5.Order Tracking & Pickup Notifications
+
+6.Ratings and Reviews
+
+7.Admin Panel for Vendor Management
 
 ## Technologies Used
 1. LANGUAGE:
