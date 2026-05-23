@@ -28,9 +28,10 @@ Overall, UniBites provides a faster, more efficient, and user-friendly way to ma
 4.Reorder of "The Usual"
 
 ## Technologies Used
-1.LANGUAGE: 
--Frontend : JavaScript, React Native, Expo
--Backend : Node.js, Express.js
+1. LANGUAGE:
+
+- Frontend: JavaScript, React Native, Expo
+- Backend: Node.js, Express.js
            
 2.DATABASE: MySQL
 
