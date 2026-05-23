@@ -32,12 +32,13 @@ Overall, UniBites provides a faster, more efficient, and user-friendly way to ma
 
 - Frontend: JavaScript, React Native, Expo
 - Backend: Node.js, Express.js
+
+2. DATABASE : MySQL
+
+3. CLOUD HOSTING : Render
+
+4. DEPLOYMENT PLATFORM : AMAZONNWEB SERVICES (AWS)
            
-2.DATABASE: MySQL
-
-3.CLOUD HOSTING: Render
-
-3.DEPLOYMENT PLATFORM: Amazon Web Services (AWS)
 
 ## Setup Instructions
 1. Clone the repository: 
