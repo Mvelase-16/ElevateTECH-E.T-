@@ -12,11 +12,11 @@
 
 - **Non-Functional Requirements:**
   - Login and registration must complete within 3 seconds under normal load.
-  - The system must comply with data protection standards for storing personal information.
+  - The system must comply with data protection standards for storing personal information by encryption.
 
 ---
 
-## Feature: Restaurant Stall Listing and Menu Management
+## Feature: Cafeteria Stall Listing and Menu Management
 
 - **Functional Requirements:**
   - Vendors must be able to create and edit their stall profile including name, location, and operating hours.
@@ -24,20 +24,20 @@
   - Vendors must be able to mark items as available or sold out.
 
 - **Non-Functional Requirements:**
-  - Menu updates must reflect on the student-facing view within 5 seconds.
-  - The system must support a minimum of 50 active vendor listings simultaneously.
+  - Menu updates must reflect on the student-interface within 5 seconds.
+  - The application layer must support a minimum of 50 active vendor stalls running simultaneously.
 
 ---
 
-## Feature: Food Ordering and Cart Management
+## Feature: Food Ordering ,Cart Management and Pickup Scheduling
 
 - **Functional Requirements:**
   - Students must be able to browse menus and add items to a food cart.
   - Students must be able to view, edit, and remove items from the cart before checkout.
-  - Students must be able to place an order with a single confirmation action.
+  - Students must be able to select an available, capacity-limited pickup time slot before finalizing their order submission.
 
 - **Non-Functional Requirements:**
-  - The system must be able to handle many orders at the same time
+  - The system must be able to handle a minimum of 200 concurrent checkout requests during peak campus rush hours without crashing.
 
 ---
 
@@ -50,7 +50,7 @@
 
 - **Non-Functional Requirements:**
   - Payment transactions must be processed within 5 seconds.
-  - All payment data must be encrypted.
+  - All payment data must be encrypted with HTTPS.
 
 ---
 
@@ -58,7 +58,7 @@
 
 - **Functional Requirements:**
   - Students must receive real-time status updates: Order Received, In Progress, Ready for Collection.
-  - Vendors must be able to update order status from their dashboard.
+  - Vendors must be able to view an incoming order queue sorted by pickup time slots and update status flags.
   - The system must send a push notification or SMS when an order is marked as ready.
 
 - **Non-Functional Requirements:**
@@ -75,7 +75,7 @@
 
 - **Non-Functional Requirements:**
   - Reviews must be submitted and displayed within 3 seconds.
-  - The system must prevent duplicate reviews from the same student for the same order.
+  - The system must block duplicate reviews from the same student for the same order ID.
 
 ---
 
@@ -83,9 +83,9 @@
 
 - **Functional Requirements:**
   - Admins must be able to view all vendor registration requests and approve or reject them.
-  - Admins must be able to suspend or permanently remove a vendor listing.
+  - Admins must have the authority to suspend or permanently remove a vendor listing.
   - Admins must be able to view aggregated platform usage reports.
 
 - **Non-Functional Requirements:**
-  - The admin dashboard must load within 4 seconds.
-  - All admin actions must be logged with a timestamp and admin ID for audit purposes.
+  - The admin dashboard must fetch and render aggregate reports within 4 seconds.
+  - All admin actions must be logged with automated database timestamp and admin ID for audit purposes.
