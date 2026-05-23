@@ -23,5 +23,4 @@ This sprint backlog outlines the tasks required to develop the cafeteria pre-ord
 | Fix bugs identified during testing | David Maleka (Backend Developer) | 4 hrs | Sprint 3 | To Do |
 | Perform full system testing | Ntandoyenkosi Mncube (QA & Documentation) | 6 hrs | Sprint 3 | To Do |
 | Document system functionality and testing results | Ntandoyenkosi Mncube (QA & Documentation) | 5 hrs | Sprint 3 | To Do |
-**Today:** Waiting on the backend API bug to be patched so I can begin testing data collection flows in Postman.
-    * **Blockers:** Blocked by Liyabona’s backend API bug.
+
