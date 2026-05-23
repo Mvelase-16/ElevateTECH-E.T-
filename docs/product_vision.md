@@ -1,7 +1,7 @@
 # Project name: UniBites-Campus Cafeteria App
 A pre-ordering app for campus cafeterias that allows students & staff to order food in advance and select a pickup time, while giving cafeteria staff real-time demand visibility to reduce waste and improve preparation efficiency.
 
-## Problem Statement
+## 1. Problem Statement
 Campus cafeterias currently face two interconnected problems that negatively affect both students and staff every day.
 
 Student & staff problem:
@@ -13,14 +13,14 @@ Workers have no advance visibility into how many students/staff will order, what
 Root cause:
 The absence of a pre-ordering system means both sides are operating blind. Students & staff have no way to signal demand in advance, and staff have no data to act on. This app directly addresses that information gap.
 
-## Target Users
+## 2. Target Users
 1. Campus students & staff who eat at the cafeteria daily.
 2. Cafeteria cooks, servers, and managers.
 
-## Unique Value Proposition
-UniBites is a student & staff food ordering platform designed to make campus life easier by providing quick and convenient access to affordable meals. The system connects students directly to nearby food options, allowing them to discover, order, and receive meals without hassle. Unlike general food delivery apps, UniBites is specifically tailored for students, focusing on budget-friendly pricing and fast service within the campus environment. Its main goal is to solve the problem of limited access to affordable and convenient food by offering a simple, fast, and reliable solution that fits the everyday needs of students, which will inevitably fit the needs of the staff.
+## 3. Unique Value Proposition (UVP)
+UniBites is a student & staff food ordering platform designed to make campus life easier by providing quick and convenient access to affordable meals. It integrates students and staff directly with the on-campus kitchen workflow, allowing them to browse live daily menus, pre-order meals in advance, and secure a predictable collection window. Unlike general food delivery apps, UniBites is specifically tailored for students, focusing on budget-friendly pricing and fast service within the campus environment. Its main goal is to solve the problem of limited access to affordable and convenient food by offering a simple, fast, and reliable solution that fits the everyday needs of students, which will inevitably fit the needs of the staff.
 
-## Key Features
+## 4. Key Features
 Students & Staff
 - Browse menu
 - Place order
@@ -31,7 +31,7 @@ Cafeteria
 - Manage menu
 - Mark orders ready
 
-## Success Metrics
+## 5. Success Metrics
 - Reduction in average queue wait time at peak hours
 - Weekly active student & staff users on campus
 - Reduction in daily food wastage
@@ -39,15 +39,16 @@ Cafeteria
 - Cafeteria workers use of demand forecast feature
 - Student & staff satisfaction rating
 
-## Moore's Vision Product Template
+## 6. Moore's Vision Product Template
 **FOR**	Campus students & staff who are frustrated by long cafeteria queues and unpredictable wait times during lunch breaks.
 
 **WHO**	Need a way to order food in advance and guarantee their meal is ready when they arrive on campus.
 
-**THE**	Campus Cafeteria Ordering App UniBites.
-IS A	Web-based pre-ordering and pickup scheduling platform.
+**THE**	UniBites Campus Cafeteria Ordering App.
 
-**THAT**	Lets students & staff browse the menu, place orders ahead of time, choose a pickup slot, and track their order status live — while giving cafeteria staff real-time demand forecasts to guide food preparation.
+**IS**  A dedicated, on-campus queue-mitigation and pickup scheduling platform.
+
+**THAT**	Links students and staff directly to the internal cafeteria kitchen workflow—allowing users to browse live menus and claim precise pickup time slots while providing the cafeteria staff with real-time demand visibility to prevent daily food wastage.
 
 **UNLIKE**	Walking up to the counter with no advance ordering, or generic food delivery apps not designed for campus operations.
 
